@@ -1,6 +1,7 @@
-# ChatGPT/DeepSeek Python Chat Interface
+# Python Chat Interface
 
 This project provides a simple command-line chat interface for interacting with large language models, in this case OpenAI's ChatGPT 3.5
+for my extern capstone project
 
 ## Requirements
 
