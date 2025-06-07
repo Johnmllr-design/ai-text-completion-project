@@ -5,7 +5,6 @@ for my extern capstone project
 
 ## Requirements
 
-- Python 3.7+
 - `openai` package (for ChatGPT)
 - `requests` package (for Hugging Face/DeepSeek)
 
