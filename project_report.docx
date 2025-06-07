@@ -1,0 +1,60 @@
+Q: Will AI replace artists?
+
+A:I may automate certain artistic processes, but it won't replace the soul behind art. Artists do more than produce—they express, 
+provoke, reflect. AI can generate content, but human emotion, context, and cultural depth still resonate most when created by people. 
+Instead of replacing artists, AI will likely become another medium—like paint, camera, or synthesizer—for creative expression.
+
+
+Reflection: seting 3.5, response is generic, straighforward, and accurate but doens't proivde examples or nuance
+
+Q: Can tech solve world hunger?
+
+A: Technology offers powerful tools—precision agriculture, vertical farming, genetic modification, and food distribution systems—but 
+hunger isn’t just a technological issue. It’s political and economic. There’s enough food; the problem is access, inequality, and 
+infrastructure. Tech can help, but solving hunger demands systemic change in governance, economics, and social priorities.
+
+
+Q: Finish this story: A bear and a blanket walked into a bar.
+
+Reflection: seting 3.5, response is accurate but doens't proivde in depth explanations of the political issues it is talking about
+
+
+
+A: The bartender didn’t flinch. He’d seen weirder.
+The bear lumbered to a stool. “Honey whiskey,” he growled.
+The blanket floated behind, settling gently on a chair.
+The bartender raised an eyebrow. “What's the occasion?”
+“We just broke up,” said the blanket.
+The bear sighed. “She says I’m too clingy. I say she’s too cold.”
+Everyone laughed, except the jukebox—it started playing something sad and fuzzy.
+
+
+Reflection: seting 3.5, response is funny, but the punchline doesn't really make sense.
+how could the blanket be cold if hes clingy? I think the newer chatGPT models would perform
+better
+
+
+
+Q: Should AI be stopped?
+
+A: Stopping AI entirely isn’t feasible—it’s already embedded in daily life, from search engines to medicine. The real question
+is how it should be governed. AI needs oversight to prevent misuse, bias, surveillance, and dependency. Stopping AI isn't the 
+answer—steering it responsibly is.
+
+Reflection: seting 3.5, response is biased towards the promotion of AI but it is coherent and accurate.
+
+
+Q: What happened to the ancient peoples in modern-day Mexico?
+
+A: Civilizations like the Maya, Aztec, and Olmec evolved, merged, or were disrupted by colonization. After the Spanish arrived
+in the 16th century, many indigenous peoples were devastated by disease and conquest. Yet they didn’t vanish—millions of their
+descendants live in Mexico today, preserving languages, traditions, and identities. Ancient cultures didn't disappear; they 
+transformed and endured.
+
+
+Reflection: seting 3.5, the AI performed well on this niche topic
+
+
+
+Summary: the model performs best when asked straightforward questions of truth or falsity or of historic events,
+but struggles moreso in making the responses to creative questions coherent to the human reading them.
